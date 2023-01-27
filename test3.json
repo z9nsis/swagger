@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/z9nsis/swagger/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/z9nsis/swagger/main/test3.yaml",
     "urls": [
       {
-        "url": "https://raw.githubusercontent.com/z9nsis/swagger/main/test.yaml",
+        "url": "https://raw.githubusercontent.com/z9nsis/swagger/main/test3.yaml",
         "name": "Foo"
       }
     ]
