@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/z9nsis/swagger/main/test.yaml",
+    "urls": [
+      {
+        "url": "https://raw.githubusercontent.com/z9nsis/swagger/main/test.yaml",
+        "name": "Foo"
+      }
+    ]
+  }
